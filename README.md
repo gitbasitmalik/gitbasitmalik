@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gitbasitmalik 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React Projects and Java DSA
+- 💞️ I’m looking to collaborate on React Projects and Full Stack Projects
 - 📫 How to reach me 
 Email: mbasit467@gmail.com
 - 📫 instagram :ig.basitmalik
