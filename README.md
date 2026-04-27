@@ -1,10 +1,8 @@
 # 👨‍💻 Basit ur Rehman Malik
 ### Full-Stack Software Engineer | MSc Student @ University of Hertfordshire
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitbasitmalik&show_icons=true&theme=tokyonight&hide_border=true" alt="Basit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitbasitmalik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![Basit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitbasitmalik&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitbasitmalik&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -29,30 +27,20 @@ I am a passionate **Software Engineering student** currently pursuing my **MSc a
 ---
 
 ### 📈 Activity & Achievements
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitbasitmalik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitbasitmalik&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitbasitmalik&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=gitbasitmalik&theme=radical&no-frame=true)
 
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/basitmalik001/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/tweetatbasit" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.instagram.com/ig.basitmalik/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/22138023/basit-malik" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-</p>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/basitmalik001/)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/tweetatbasit)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ig.basitmalik/)
+[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/22138023/basit-malik)
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gitbasitmalik&icon=0&color=1" alt="Visitors" />
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=gitbasitmalik&color=blueviolet)
