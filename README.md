@@ -26,13 +26,6 @@ I am a passionate **Software Engineering student** currently pursuing my **MSc a
 
 ---
 
-### 📈 Activity & Achievements
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitbasitmalik&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=gitbasitmalik&theme=radical&no-frame=true)
-
----
-
 ### 🌐 Connect With Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/basitmalik001/)
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/tweetatbasit)
@@ -41,6 +34,9 @@ I am a passionate **Software Engineering student** currently pursuing my **MSc a
 
 ---
 
+### ✍️ Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Visitors](https://komarev.com/ghpvc/?username=gitbasitmalik&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gitbasitmalik&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
+</p>
